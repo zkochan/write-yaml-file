@@ -1,3 +1,5 @@
+> this package has been moved to https://github.com/zkochan/packages/tree/master/write-yaml-file
+
 # write-yaml-file
 
 [![Build Status](https://travis-ci.org/zkochan/write-yaml-file.svg?branch=master)](https://travis-ci.org/zkochan/write-yaml-file)
